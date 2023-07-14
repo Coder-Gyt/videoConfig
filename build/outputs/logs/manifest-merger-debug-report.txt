@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml:1:11-56
+		INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+		INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml:1:1-5:12
+application
+ADDED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml:3:5-20
+uses-sdk
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+		ADDED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+		INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+		ADDED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
+		INJECTED from G:\GitDome\FFmpegDemo-master\FFmpegAndroid\src\main\AndroidManifest.xml
